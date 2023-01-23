@@ -1,0 +1,243 @@
+{
+    "timestamp": "20221013",
+    "dailySteps": {
+        "monday": {
+            "set1": {
+                "steps": 5351,
+                "pace": 118,
+                "time": {
+                    "hours": 0,
+                    "minutes": 44
+                }
+            },
+            "set2": {
+                "steps": 3378,
+                "pace": 124,
+                "time": {
+                    "hours": 0,
+                    "minutes": 26
+                }
+            },
+            "set3": {
+                "steps": 9130,
+                "pace": 122,
+                "time": {
+                    "hours": 1,
+                    "minutes": 14
+                }
+            },
+            "set4": {
+                "steps": 6846,
+                "pace": 125,
+                "time": {
+                    "hours": 0,
+                    "minutes": 54
+                }
+            }
+        },
+        "tuesday": {
+            "set1": {
+                "steps": 6461,
+                "pace": 106,
+                "time": {
+                    "hours": 1,
+                    "minutes": 0
+                }
+            },
+            "set2": {
+                "steps": 7562,
+                "pace": 123,
+                "time": {
+                    "hours": 1,
+                    "minutes": 0
+                }
+            },
+            "set3": {
+                "steps": 5658,
+                "pace": 133,
+                "time": {
+                    "hours": 0,
+                    "minutes": 42
+                }
+            },
+            "set4": {
+                "steps": 7498,
+                "pace": 105,
+                "time": {
+                    "hours": 1,
+                    "minutes": 10
+                }
+            }
+        },
+        "wednesday": {
+            "set1": {
+                "steps": 6369,
+                "pace": 128,
+                "time": {
+                    "hours": 0,
+                    "minutes": 49
+                }
+            },
+            "set2": {
+                "steps": 6254,
+                "pace": 134,
+                "time": {
+                    "hours": 0,
+                    "minutes": 46
+                }
+            },
+            "set3": {
+                "steps": 5540,
+                "pace": 111,
+                "time": {
+                    "hours": 0,
+                    "minutes": 49
+                }
+            },
+            "set4": {
+                "steps": 5225,
+                "pace": 100,
+                "time": {
+                    "hours": 0,
+                    "minutes": 51
+                }
+            }
+        },
+        "thursday": {
+            "set1": {
+                "steps": 6306,
+                "pace": 115,
+                "time": {
+                    "hours": 0,
+                    "minutes": 54
+                }
+            },
+            "set2": {
+                "steps": 6678,
+                "pace": 104,
+                "time": {
+                    "hours": 1,
+                    "minutes": 3
+                }
+            },
+            "set3": {
+                "steps": 6878,
+                "pace": 134,
+                "time": {
+                    "hours": 0,
+                    "minutes": 50
+                }
+            },
+            "set4": {
+                "steps": 5002,
+                "pace": 130,
+                "time": {
+                    "hours": 0,
+                    "minutes": 37
+                }
+            }
+        },
+        "friday": {
+            "set1": {
+                "steps": 5971,
+                "pace": 127,
+                "time": {
+                    "hours": 0,
+                    "minutes": 46
+                }
+            },
+            "set2": {
+                "steps": 8567,
+                "pace": 120,
+                "time": {
+                    "hours": 1,
+                    "minutes": 10
+                }
+            },
+            "set3": {
+                "steps": 5903,
+                "pace": 125,
+                "time": {
+                    "hours": 0,
+                    "minutes": 46
+                }
+            },
+            "set4": {
+                "steps": 4029,
+                "pace": 123,
+                "time": {
+                    "hours": 0,
+                    "minutes": 32
+                }
+            }
+        },
+        "saturday": {
+            "set1": {
+                "steps": 4689,
+                "pace": 111,
+                "time": {
+                    "hours": 0,
+                    "minutes": 41
+                }
+            },
+            "set2": {
+                "steps": 7819,
+                "pace": 116,
+                "time": {
+                    "hours": 1,
+                    "minutes": 6
+                }
+            },
+            "set3": {
+                "steps": 4563,
+                "pace": 131,
+                "time": {
+                    "hours": 0,
+                    "minutes": 34
+                }
+            },
+            "set4": {
+                "steps": 7523,
+                "pace": 117,
+                "time": {
+                    "hours": 1,
+                    "minutes": 3
+                }
+            }
+        },
+        "sunday": {
+            "set1": {
+                "steps": 7265,
+                "pace": 127,
+                "time": {
+                    "hours": 0,
+                    "minutes": 56
+                }
+            },
+            "set2": {
+                "steps": 5082,
+                "pace": 100,
+                "time": {
+                    "hours": 0,
+                    "minutes": 50
+                }
+            },
+            "set3": {
+                "steps": 5464,
+                "pace": 133,
+                "time": {
+                    "hours": 0,
+                    "minutes": 40
+                }
+            },
+            "set4": {
+                "steps": 6671,
+                "pace": 122,
+                "time": {
+                    "hours": 0,
+                    "minutes": 54
+                }
+            }
+        }
+    }
+}
